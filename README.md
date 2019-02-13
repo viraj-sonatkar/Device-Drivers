@@ -1,5 +1,13 @@
-# Device-Drivers
-Device Drivers Lab [COM405P]
+#	Device-Drivers
+Device Drivers Lab Work
+-	Course Code : COM405P
+-	Course Faculty : Dr. Shankaran Vaidyanathan
+
+Machine Description : 
+-	[lscpu](./Lab_00/lscpu.txt)
+-	[lshw](./Lab_00/lshw.tx)
+-	[screenfetch](./Lab_00/screenfetch.tx)
+ -- --
 
 ##	Lab 00 : Basics of Linux, UNIX and Shell Scripting - 20190101
 1.	Linux Commands
@@ -14,7 +22,13 @@ Device Drivers Lab [COM405P]
 5.	Write a C program & attach it with Kernel
 6.	Download source code of a command not available in your OS & add it to your Kernel.
 
-##	Lab 02 :  - 20190122
+##	Lab 02 : Some Hands On with Device Drivers - 20190122
+0.	Example
+	*	Making a Device Driver Module and Attach with Kernel [Tutorial on Linux Device Driver](http://www.it.uu.se/edu/course/homepage/pins/vt15/labs/tutorial-DD.pdf)
+	*	Types of Device Drivers
+	*	File Systems and How Hard disk is divided?
+	*	BOOT FILE
+1.	Write a c program and attach to kernel.
 
 ##	Lab 03 :  - 20190129
 
@@ -42,3 +56,4 @@ Device Drivers Lab [COM405P]
 
 ##	Assignments
 1.	Write an application in C to capture all network packets & display any password if it is found in HTTP packets.
+	*	Deadline - 12 Feb 2019
